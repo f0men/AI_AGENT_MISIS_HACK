@@ -41,7 +41,6 @@ narwhals==1.42.1
 nest-asyncio==1.6.0
 openai==2.2.0
 packaging==24.2
-pandas==2.0.3
 parso==0.8.5
 pickleshare==0.7.5
 pillow==10.4.0
@@ -51,7 +50,6 @@ prompt-toolkit==3.0.52
 protobuf==5.29.5
 psutil==7.2.0
 pure-eval==0.2.3
-pyarrow==17.0.0
 pydantic==2.10.6
 pydantic-core==2.27.2
 pydeck==0.9.1
